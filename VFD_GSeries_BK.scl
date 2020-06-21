@@ -1,4 +1,4 @@
-﻿FUNCTION_BLOCK "VFD_GSeries_BK"
+﻿FUNCTION_BLOCK "VFD_GSeries_BK1"
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
    VAR_INPUT RETAIN
