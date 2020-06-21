@@ -1,0 +1,12 @@
+﻿FUNCTION_BLOCK "Block_2"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR_TEMP 
+      i : Int;
+   END_VAR
+
+
+BEGIN
+	#i := 4 + 5;
+END_FUNCTION_BLOCK
+
